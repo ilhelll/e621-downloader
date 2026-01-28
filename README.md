@@ -1,6 +1,6 @@
 # e621 downloader (ru)
 
-e621 downloader - программа для скачивания постов, коллекций и избранных пользователей на платформе e621.net
+e621 downloader - программа для скачивания постов, коллекций и избранные посты пользователей на платформе e621.net
 
 ## Скачиваниe
 
@@ -15,7 +15,7 @@ e621 downloader - программа для скачивания постов, �
 
 # e621 downloader (eng)
 
-e621 downloader - a program for downloading posts, collections, and favorite users on the e621.net platform.
+e621 downloader - a program for downloading posts, collections, and user's favorite on the e621.net platform.
 
 ## Downloading
 
