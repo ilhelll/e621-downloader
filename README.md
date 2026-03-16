@@ -4,7 +4,7 @@ e621 downloader - программа для скачивания постов, �
 
 ## Скачиваниe
 
-Скачайте rar архив из [последнего релиза](https://github.com/ilhelll/e621-downloader/releases/tag/e621) и пользуйтесь!
+Скачайте rar архив из [последнего релиза](https://github.com/ilhelll/e621-downloader/releases/) и пользуйтесь!
 
 ## Как работает программа
 
@@ -19,7 +19,7 @@ e621 downloader - a program for downloading posts, collections, and user's favor
 
 ## Downloading
 
-Download the rar archive from [the latest release](https://github.com/ilhelll/e621-downloader/releases/tag/e621) and enjoy!
+Download the rar archive from [the latest release](https://github.com/ilhelll/e621-downloader/releases/) and enjoy!
 
 ## How the program works
 The program runs on the e621 API [(Example)](https://e621.net/posts.json?tags=meow_skulls%20hyper%20-intersex&limit=100) and downloads posts through this API. After that, a separate folder is created in the folder where the program is used, where the posts are stored.
